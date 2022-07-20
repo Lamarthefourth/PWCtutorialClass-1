@@ -28,3 +28,4 @@ const numMode = (p) =>{
     return p%2
 }
 console.log(numMode(53))
+
