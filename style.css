@@ -1,0 +1,18 @@
+body{
+    background-color:grey;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+}
+
+table, th, tr{
+    border: 1px solid black;
+}
+
+h1{
+color: yellow;
+}
+
+
